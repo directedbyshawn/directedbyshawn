@@ -1,1 +1,1 @@
-<img src="namecard.png">
+<img src="README.png">
