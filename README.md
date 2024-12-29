@@ -1,5 +1,4 @@
-<img src="namecard.png" />
-<h1 style="font-size: 48px">Shawn Rodgers</h1>
-## Sofware Engineer
-### me@directedbyshawn.com
-<a href="www.directedbyshawn.com/contact">Get in touch</a>
+<!--img src="namecard.png" /-->
+<h1>Shawn Rodgers</h1>
+<h2>Sofware Engineer</h2>h2>
+<h2><a href="mailto:me@directedbyshawn.com>me@directedbyshawn.com</a></h2>
